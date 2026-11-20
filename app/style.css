@@ -1,7 +1,215 @@
-body { font-family: Arial, sans-serif; margin: 24px; color: #222; }
-header { display: flex; justify-content: space-between; align-items: baseline; }
-.controls { display: flex; gap: 16px; margin: 12px 0; align-items: center; }
-.import input { font-size: 12px; }
-table { border-collapse: collapse; width: 100%; }
-th, td { border-bottom: 1px solid #ddd; padding: 6px 8px; text-align: left; vertical-align: top; white-space: pre-line; }
-th { background: #f2f2f2; }
+/* Platinum in Leonida — a field-guide look: warm paper, deep ink, sunset accents.
+   Original styling for this entry; no game artwork, no external fonts or images. */
+
+:root {
+  --paper: #faf5ec;
+  --sheet: #fffdf8;
+  --ink: #22303c;
+  --ink-soft: #54626e;
+  --line: #e3d9c6;
+  --accent: #c8501b;
+  --accent-soft: #fbe9dd;
+  --teal: #14635d;
+  --platinum: #5b7a8c;
+  --gold: #9a7414;
+  --silver: #66707a;
+  --bronze: #96603a;
+  --watch: #a31621;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 28px 22px 40px;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.5;
+}
+
+.masthead {
+  display: flex;
+  gap: 28px;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-bottom: 3px double var(--ink);
+  padding-bottom: 18px;
+}
+
+.kicker {
+  margin: 0 0 6px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+h1 { margin: 0; font-size: 42px; line-height: 1.1; }
+
+.standfirst { margin: 8px 0 0; font-size: 18px; color: var(--ink-soft); max-width: 620px; }
+
+.progress-panel {
+  min-width: 250px;
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.progress-count { margin: 0 0 8px; font-size: 22px; font-weight: bold; }
+
+.progress-track { height: 10px; background: var(--accent-soft); border-radius: 5px; overflow: hidden; }
+
+#progress-fill { height: 100%; width: 0; background: var(--teal); transition: width 0.2s ease; }
+
+.progress-detail { margin: 8px 0 0; font-size: 13px; color: var(--ink-soft); font-family: Verdana, Geneva, sans-serif; }
+
+.sheet {
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 18px 22px;
+  margin-top: 20px;
+}
+
+.sheet h2 { margin: 0 0 8px; font-size: 24px; }
+
+.sheet p { margin: 6px 0; }
+
+.honesty { border-left: 4px solid var(--accent); padding-left: 12px; }
+
+.sources { font-size: 14px; color: var(--ink-soft); }
+
+.sheet-note { color: var(--ink-soft); }
+
+.roadmap { margin: 10px 0 4px; padding-left: 22px; }
+
+.roadmap-stop { margin-bottom: 14px; }
+
+.roadmap-stop h3 { margin: 0 0 4px; font-size: 18px; color: var(--teal); }
+
+.roadmap-stop p { margin: 2px 0; }
+
+.roadmap-trophies { font-size: 14px; color: var(--ink-soft); font-style: italic; }
+
+.controls { font-family: Verdana, Geneva, sans-serif; font-size: 14px; }
+
+.control-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: end; margin-bottom: 10px; }
+
+.control-row:last-child { margin-bottom: 0; align-items: center; }
+
+.controls label { display: flex; flex-direction: column; gap: 4px; font-weight: bold; }
+
+.controls label.grow { flex: 1 1 240px; }
+
+.controls label.toggle { flex-direction: row; align-items: center; font-weight: normal; }
+
+.controls input[type='search'], .controls select {
+  font: inherit;
+  padding: 7px 9px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.controls button, .import-button {
+  font: inherit;
+  padding: 7px 12px;
+  border: 1px solid var(--teal);
+  border-radius: 6px;
+  background: var(--teal);
+  color: #fff;
+  cursor: pointer;
+}
+
+.import-button input { display: none; }
+
+.showing { margin: 0 0 0 auto; color: var(--ink-soft); }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.card {
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-top: 5px solid var(--silver);
+  border-radius: 10px;
+  padding: 16px 18px;
+}
+
+.card.grade-platinum { border-top-color: var(--platinum); }
+.card.grade-gold { border-top-color: var(--gold); }
+.card.grade-silver { border-top-color: var(--silver); }
+.card.grade-bronze { border-top-color: var(--bronze); }
+.card.is-earned { background: #f2f7f2; }
+
+.card-head { display: flex; gap: 10px; align-items: baseline; }
+
+.card-head input[type='checkbox'] { width: 18px; height: 18px; accent-color: var(--teal); }
+
+.card-name { margin: 0; font-size: 20px; flex: 1; }
+
+.pill {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.pill-platinum { background: #dfe9ee; color: var(--platinum); }
+.pill-gold { background: #f5e7bd; color: var(--gold); }
+.pill-silver { background: #e6e9ec; color: var(--silver); }
+.pill-bronze { background: #f0dfd2; color: var(--bronze); }
+.pill-watch { background: #f8d7da; color: var(--watch); }
+.pill-spoiler { background: #e4ddf2; color: #4b3a75; }
+
+.card-meta { margin: 6px 0 10px; font-family: Verdana, Geneva, sans-serif; font-size: 13px; color: var(--ink-soft); }
+
+.official-text { margin: 6px 0; font-style: italic; }
+
+.guide-text { margin: 8px 0; }
+
+.step-list { margin: 8px 0; padding-left: 22px; }
+
+.step-list li { margin-bottom: 4px; }
+
+.tip-text { margin: 8px 0; background: var(--accent-soft); border-radius: 6px; padding: 8px 10px; }
+
+.source-text { margin: 8px 0 0; font-size: 13px; color: var(--ink-soft); }
+
+.shield-note { margin: 8px 0; color: var(--ink-soft); font-style: italic; }
+
+.reveal-button {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+  padding: 6px 12px;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.empty-note { font-size: 18px; color: var(--ink-soft); }
+
+.colophon { margin-top: 26px; border-top: 1px solid var(--line); padding-top: 12px; font-size: 14px; color: var(--ink-soft); }
+
+@media (max-width: 720px) {
+  .masthead { flex-direction: column; }
+  .cards { grid-template-columns: 1fr; }
+  h1 { font-size: 32px; }
+}
