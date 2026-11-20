@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover-guide.jpg","path":"/","view":"The guide as it opens: masthead with progress tracker (0 of 55, per-grade counts, watch-list note), how-to-use panel with the honesty note and sources, and the start of the platinum roadmap.","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","path":"/?view=roadmap","view":"The six-stop roadmap to the platinum, scrolled into view: each stop's method text and the list of trophies it clears.","viewport":{"height":800,"width":1280}},{"file":"3-guide-cards.jpg","path":"/?view=cards","view":"The first guide cards: official name, description and grade, the full original guide text, numbered steps, field tip and the source line on each card.","viewport":{"height":800,"width":1280}},{"file":"4-watchlist.jpg","path":"/?watch=1&view=cards","view":"The watch-list filter at work: verify-first trophies with WATCH flags, full guides, and the spoiler shield hiding a story-sensitive gold trophy until it is earned or revealed.","viewport":{"height":800,"width":1280}}]
