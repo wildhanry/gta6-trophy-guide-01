@@ -4,19 +4,19 @@
   "list": "the official 55 trophies, 2026-11-18",
   "guideTitle": "Platinum in Leonida — GTA VI Trophy Guide",
   "intro": "This is a working guide, not a trophy list with hints stapled to it. Every card below starts from the official wording of its trophy, explains what that wording commits you to, and then gives you a method: the order to do things in, the preparation that makes the attempt cheap, and the point at which an attempt has failed and should be restarted. Work the roadmap from the top. The story comes first because it unlocks the map, the contacts and the income everything else depends on; the long counts come last because the story and the sweeps feed them for free while you play.",
-  "honestyNote": "A note on what this guide does not know. Every trophy name, description, grade and tracked count here is taken from the official PlayStation 5 list. The methods are this guide's own. Where the official list is the only public word on a trophy — several of the one-off moment trophies have deliberately cryptic descriptions — the card says the trigger is not yet confirmed in public, tells you what the wording most plausibly points at, and gives you a save-first way to test it without risking your run. Treat any guide that states those triggers as settled fact with suspicion, including this one if a card ever reads that way by mistake.",
-  "sourcesNote": "Sources used across the guide: the official PlayStation 5 trophy list for Grand Theft Auto VI (names, descriptions, grades and tracked counts), as carried in this kit's starter data and as listed publicly by Exophase and PSNProfiles, the two listings the bounty rules name and which agree on every name, description and grade. Each card repeats its own source line so the card stands on its own when printed or shared.",
+  "honestyNote": "A note on what this guide does not know. Every trophy name, description, grade and tracked count here is taken from the official PlayStation 5 list. This edition was revised on 20 November 2026, the day after launch, against two post-launch trophy guides — PowerPyx and GTABase — and most of the triggers that were unconfirmed before launch are now described in public, so the cards that use them say so and name the source. Three grades of knowledge remain, and each card tells you which one it is: facts both post-launch guides agree on; methods reported by PowerPyx alone, where GTABase still lists the trophy as unconfirmed — those cards name PowerPyx in the text and say the other guide has not confirmed it; and one trophy, Bad Luck, I Guess, whose trigger both guides still list as unknown, which keeps its watch flag and its save-first method. Where a card's method is this guide's own, it says that too.",
+  "sourcesNote": "Sources used across the guide: the official PlayStation 5 trophy list for Grand Theft Auto VI (names, descriptions, grades and tracked counts), as carried in this kit's starter data and as listed publicly by Exophase and PSNProfiles, the two listings the bounty rules name and which agree on every name, description and grade; and, for the post-launch revision of 20 November 2026, the trophy guides of PowerPyx and GTABase, checked that day, for unlock windows, trigger details and missable status. Each card repeats its own source line so the card stands on its own when printed or shared.",
   "roadmap": [
     {
       "phase": 1,
       "title": "Story first, with rotating saves",
-      "text": "Play the campaign straight through: the chapter trophies and the named-mission trophies all pay out along the way, and finishing unlocks the contacts, activities and earning methods the rest of the list needs. Keep three manual save slots and rotate them before every chapter ending and every big set-piece. That habit costs you a minute each time and is the only insurance that exists, at this point, for the watch-list trophies further down — nobody has yet confirmed in public which one-off moments this game lets you replay.",
+      "text": "Play the campaign straight through: the chapter trophies and the named-mission trophies all pay out along the way, and finishing unlocks the contacts, activities and earning methods the rest of the list needs. Keep three manual save slots and rotate them before every chapter ending and every big set-piece. That habit matters more than it did before launch, because the post-launch guides (PowerPyx and GTABase, checked 20 November 2026) confirm there is no mission replay in this game: your saves are the only way back to any story moment. One story-adjacent job inside this stop cannot wait for later at all — the Chapter 1 meditation on the Positive Mental Attitude card, the one possibly missable item on the list.",
       "trophies": "Just Like Paradise, Paradise Lost, T**s Ass Drug Money, Vice City, Baby!, Top Of The World, Ma, You Gotta Know When to Get Off, Trust, Break the Bank, Family Matters, DWNFALL, Hi-Jacked, Snow Storm"
     },
     {
       "phase": 2,
       "title": "Close out every contact",
-      "text": "With the story done, work the named contacts one at a time and finish each person's whole strand before starting the next. Five contacts each end in a final-mission trophy, Bret's strand ends in a hunt, and any eight finished strands pay the silver Strangers & Freaks. Strands are easy to lose track of when you interleave them, so do one person per session and tick the card the moment their last mission ends.",
+      "text": "With the story done, work the named contacts one at a time and finish each person's whole strand before starting the next. Five contacts each end in a final-mission trophy and Bret's strand ends in a hunt — but plan the silver Strangers & Freaks separately: the post-launch guides (PowerPyx and GTABase, checked 20 November 2026) report that the named contacts' questlines do not count toward it, and name the strands that do. The Strangers & Freaks card carries the confirmed list; this stop is for the bronzes, each earned for itself. Strands are easy to lose track of when you interleave them, so do one person per session and tick the card the moment their last mission ends.",
       "trophies": "Road to Rehabilitation, This Was No Boat Accident, The Lone Rider, Supply & Demand, Spin On This!, Fair Game, Strangers & Freaks"
     },
     {
@@ -28,7 +28,7 @@
     {
       "phase": 4,
       "title": "Sweep the map region by region",
-      "text": "Clear Leonida one region at a time instead of chasing single items across the state. Meditation spots, card sets, WAiNK locations and unvisited areas all sit in the same neighbourhoods, so one planned pass per region collects four lists at once. Drive whatever you find rather than summoning your usual car and the 100-vehicle discovery count fills itself in as a side effect.",
+      "text": "Clear Leonida one region at a time instead of chasing single items across the state. Meditation spots, card sets, WAiNK locations and unvisited areas all sit in the same neighbourhoods, so one planned pass per region collects four lists at once. Scan whatever vehicles you pass with the WAiNK app rather than driving them — discovery in this game is a scan, per the Whip It Good card — and the 100-vehicle count fills itself in as a side effect.",
       "trophies": "Positive Mental Attitude, Don't Touch My Deck, You WAiNKer!, The Goodtime State, Whip It Good"
     },
     {
@@ -40,7 +40,7 @@
     {
       "phase": 6,
       "title": "Feats, strange moments, and the last percent",
-      "text": "What remains is a mixed bag: combat feats you can set up deliberately, a handful of one-off moments to hunt with a save in your pocket, the stunt total you have been feeding since the story, and the 100% completion push that sweeps up whatever the earlier stops left behind. The platinum pays itself the moment the fifty-fourth other trophy lands, so if you reach this stop with only A Long Road outstanding, you are one checklist audit away from finishing.",
+      "text": "What remains is a mixed bag: combat feats you can set up deliberately, the strange-moment trophies — most of them with confirmed, card-level recipes since the post-launch revision, and one, Bad Luck, I Guess, still honestly unknown — the stunt total you have been feeding since the story, and the 100% completion push that sweeps up whatever the earlier stops left behind. The platinum pays itself the moment the fifty-fourth other trophy lands, so if you reach this stop with only A Long Road outstanding, you are one checklist audit away from finishing.",
       "trophies": "Gunslinger, Challenging Tank, Ten Pin, Catch Me If You Can, In The Beginning…, Capital Offense, Let’s Go Bowling, Personal Best, Actions Speak Louder, Bad Luck, I Guess, The Truth Is Out There, Cunning Stunts, A Long Road, Vice Got a Price!"
     }
   ],
@@ -90,14 +90,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "A chapter-completion trophy: finish every mission Chapter 1 puts in front of you and this pays out at the chapter break. Nothing in the official wording adds a condition beyond completion, so a normal playthrough earns it. The useful habit to start here is the rotating manual save — make your first one before the chapter finale, so the practice is automatic by the time the watch-list trophies arrive.",
+      "guide": "A chapter-completion trophy: finish Chapter 1 and this pays out — with one timing quirk worth knowing before you start. PowerPyx's post-launch trophy guide reports that the trophy does not pop at the chapter break itself but after you complete the first main mission of Chapter 2, What's in the Bag?; GTABase's trophy list reports the same delayed unlock. So do not panic, and do not reload, if the credits for Chapter 1 roll without a bronze. Chapter 1 is also where this guide's two protective habits begin, and both are cheaper to start here than to retrofit: keep a manual save from before the chapter's closing missions until this trophy has actually landed, and, before you leave Chapter 1 behind, take the Chapter 1 meditation moment flagged on the Positive Mental Attitude card — PowerPyx and GTABase both identify it as the one possibly missable item on the whole list.",
       "steps": [
-        "Work through Chapter 1's missions in the order the game offers them.",
-        "Save manually in a fresh slot before the chapter's final mission.",
-        "Finish the finale; the trophy unlocks at the chapter transition."
+        "Play Chapter 1's missions in the order the game offers them, and take the Chapter 1 meditation moment described on the Positive Mental Attitude card before finishing the chapter.",
+        "Before the chapter's closing missions, save manually in a fresh slot and do not overwrite that slot yet.",
+        "Finish Chapter 1, then keep playing into Chapter 2 and complete its first main mission, What's in the Bag? — the trophy is reported to unlock at that point.",
+        "Once it lands, tick it here and audit your early counts (vehicles discovered, WAiNK scans) while the areas are still familiar."
       ],
-      "tip": "Chapter breaks are the natural audit points for this checklist — glance at your counts each time one lands.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "A delayed pop is not a missed trophy: for this one, judge it only after Chapter 2's first mission is done — reloading a Chapter 1 save before that point throws away the very mission that triggers it.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Delayed-unlock timing and the Chapter 1 meditation warning: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 4,
@@ -126,14 +127,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Finish Chapter 3 to earn this one. It is a pure progression trophy — completion is the whole requirement as officially worded. Mid-story is also the right moment to begin the two habits that quietly feed later trophies: drive newly seen vehicles instead of your default car (the discovery count), and launder marked bills whenever a job leaves you holding them, rather than saving either task for a dedicated grind.",
+      "guide": "Finish Chapter 3 to earn this one — and, as with Chapter 1's trophy, expect the pop to lag the chapter break. PowerPyx's post-launch trophy guide reports that this bronze unlocks only after you complete the first two main missions of Chapter 4, Ocean Beach and Another Life; GTABase's trophy list reports the same timing. Treat those two missions as part of this trophy's requirement in practice: keep playing, and only audit this card once both are done. Chapter 3 is also the hinge of the whole run, because several systems the later stops depend on open inside it, on the sources named below: the Key Cloner arrives in a Chapter 3 mission, Yasmani's Jewelry Jobs run in Chapter 3, and Randy's and Tyrone's strands both get marked from Chapter 3 missions. None of that has to be finished inside the chapter — all of it remains available after the story — but noticing each unlock as it happens is what turns the post-story clean-up from a scavenger hunt into a checklist.",
       "steps": [
-        "Play Chapter 3 through to its concluding mission.",
-        "Start swapping into unfamiliar vehicles as you travel between missions.",
-        "The trophy unlocks at the chapter's end."
+        "Play Chapter 3's missions in order, keeping a manual save from before the chapter's closing missions until this trophy lands.",
+        "As Chapter 3 systems open — the Key Cloner mission, Yasmani's Jewelry Jobs, and the first markers for Randy's and Tyrone's strands — note each one; you will come back to all of them in the contact and crime stops.",
+        "Continue into Chapter 4 and complete its first two main missions, Ocean Beach and Another Life; the trophy is reported to unlock at that point.",
+        "Audit before moving on: if the bronze is still missing after both missions, check this card against your mission log the same day, while a reload is still cheap."
       ],
-      "tip": "Counts fed casually during the story are counts you never have to grind — vehicles and marked bills are the two big ones.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Judge this trophy two missions late, not at the chapter break — and use the wait productively: those first two Chapter 4 missions are story time you had to play anyway, so the delay costs nothing if you expect it.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Delayed-unlock timing and Chapter 3 unlocks: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 6,
@@ -160,16 +162,17 @@
       "grade": "gold",
       "category": "Story",
       "type": "story",
-      "missable": true,
+      "missable": false,
       "spoiler": true,
-      "guide": "The gold for finishing the campaign's final mission. The trophy itself cannot be missed — completing the mission is the whole requirement — but it sits on the watch list for a different reason: final missions in this series tend to contain the choices and one-off set-pieces that other trophies quietly depend on, and whether this game offers mission replay was not confirmed in public when this guide was written. Go in with a fresh manual save made before the point of no return, play your own ending first, and only experiment with alternate choices from that save afterwards.",
+      "guide": "The gold for finishing the campaign's final mission — and this card has come off the watch list, because the two facts it was waiting on are now confirmed in public. PowerPyx's post-launch trophy guide states that there is still free-roam after the story but no mission replay, and lists this trophy as an automatic story trophy that cannot be missed; GTABase's trophy list says the same and adds that no trophy depends on how you play a mission. So the ending is not a lock-out: finish the story, and the whole map, every contact strand and every clean-up trophy remain available to you afterwards. What the absence of mission replay does change is your save discipline, not your route: because no story mission can be replayed, the manual saves you kept at chapter starts and ends are the only way back to any story moment, which is why this guide keeps recommending them even though no trophy here is missable.",
       "steps": [
-        "Make a dedicated manual save before starting the final mission and do not overwrite it.",
+        "Before starting the final mission, make a dedicated manual save and label the slot as your pre-finale save; do not overwrite it afterwards.",
         "Complete the final mission; the gold unlocks at its conclusion.",
-        "Reload the pre-finale save if you want to test other choices for the choice-related trophies."
+        "After the credits, confirm you are back in free-roam, then work the clean-up stops from this save — every remaining trophy on this list is still reachable from here, per the sources below.",
+        "Keep the pre-finale save for the whole clean-up: with no mission replay, it is your only route back to story-only moments."
       ],
-      "tip": "If the game warns you about a point of no return, believe it — that warning is exactly what your spare save slot is for.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Replay rules not yet public; the save-first method is this guide's own precaution."
+      "tip": "The point of no return in this game is a save-slot problem, not a trophy problem: one untouched pre-finale save gives you everything a replay function would, for every trophy on this list.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Free-roam after the story, no mission replay, and cannot-be-missed status: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 8,
@@ -180,14 +183,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Complete the named story mission Breakfast Run. These single-mission trophies are the checklist's way of confirming you are on the main path: each one pays out for finishing its mission, with no extra condition in the official wording. If you are following the story in order you will earn this without thinking about it; the card exists so you can confirm afterwards that the mission registered, which matters if you ever need to audit a story save.",
+      "guide": "Complete the named story mission Breakfast Run, a Chapter 2 main mission — both PowerPyx's and GTABase's post-launch guides place it there and class it as an automatic story trophy that cannot be missed. Placement matters more than the mission itself, because Chapter 2 is the chapter where this list quietly starts its long counts: the same chapter's Coffee Break mission is the one that unlocks free-roaming together as both characters (see Hot Together and Personal Best), and the Scooter Bros app and the purchasable garages also arrive through Chapter 2 missions, per the sources below. So use Breakfast Run as a dated checkpoint rather than a task: when it pops, you are in the chapter where partnering up, vehicle registration and garage buying all switch on, and the habits on those cards should start from here, not from the endgame.",
       "steps": [
-        "Reach Breakfast Run in the story sequence.",
-        "Complete the mission.",
-        "The trophy unlocks at the mission-complete screen."
+        "Before starting Breakfast Run, save manually in a fresh slot — Chapter 2 is worth a clean entry point, because several unlocks land inside it.",
+        "Complete Breakfast Run as the story presents it; the trophy unlocks during the mission's completion, with no extra condition.",
+        "Tick the card immediately, then check which Chapter 2 unlocks you now hold (partner free-roam after Coffee Break, the Scooter Bros app, garage purchases) and start the habits on those cards.",
+        "If the bronze has not appeared by the mission-complete screen, reload the pre-mission save and replay it the same session — with no mission replay in this game, a same-day reload is the only fix there will ever be."
       ],
-      "tip": "A named-mission trophy that does not pop after its mission is worth a save reload immediately, not three chapters later.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Treat this card as a calendar, not a chore: its real content is 'you are now in Chapter 2', and Chapter 2 is where the partner, registration and garage systems all switch on.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Chapter 2 placement, cannot-be-missed status and the chapter's unlocks: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 9,
@@ -198,14 +202,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Finish the story mission The Cartel Heist. It is a heist set-piece, which makes it the campaign's rehearsal for the free-roam robbery trophies later in the list: whatever the mission teaches about entry, timing and escape routes applies again when you are robbing vaults on your own initiative. Play it attentively rather than quickly and the later crime stop gets noticeably easier.",
+      "guide": "Finish the story mission The Cartel Heist, a Chapter 3 main mission — PowerPyx and GTABase both place it there and class it as an automatic story trophy that cannot be missed. Read it as the campaign's rehearsal for the crime stop, and rehearse specific things, not just a mood: how the mission stages its entry, how long it lets you work before the response arrives, and how its getaway is routed. Those three timings are the whole skill set of the free-roam robbery trophies, and the post-launch sources below put numbers on the later version of the same job: large bank vault robberies, unlocked in Chapter 4, always give a four-star wanted level and pay up to $205,000 each. A player who watched how The Cartel Heist handles its four-star escape already knows the shape of the vault routine; a player who rushed it has to learn that shape later, at full price, in free roam.",
       "steps": [
-        "Reach The Cartel Heist in the story sequence.",
-        "Complete the heist, including its escape.",
-        "The trophy unlocks when the mission completes."
+        "Before starting The Cartel Heist, save manually in a fresh slot, and go in with full health and your best current vehicle staged as the mission allows.",
+        "Play the heist slowly enough to register its structure: note the entry method, the moment the wanted level arrives, and the route the escape takes.",
+        "Complete the heist including its escape; the trophy unlocks during the mission's completion, with no performance condition.",
+        "Afterwards, write down the one escape habit the mission taught you — breaking line of sight before changing vehicles, or the reverse — and tick the card; that habit is your default plan for Maximum Withdrawal and Hot Together later."
       ],
-      "tip": "Note how the mission stages its getaway — the vault robberies in free roam reward exactly the same patience about wanted levels.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Your getaway note from this mission should be one sentence you could act on half-asleep — 'lose sight first, swap cars second' or its opposite. If you cannot write it, you watched a cutscene, not a rehearsal.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Chapter 3 placement and cannot-be-missed status, and the bank-vault figures used for comparison: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 10,
@@ -216,14 +221,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Complete the story mission Child's Play. A straightforward progression trophy with completion as its only stated condition. Missions with personal stakes like this one are also the ones most likely to contain a missable-feeling moment — a conversation, a choice, a short window to act — so the standing advice applies: if the mission offers you an optional interaction, take it before pushing the main objective, and let the rotating save cover anything you still manage to walk past.",
+      "guide": "Complete the story mission Child's Play, a Chapter 4 main mission — PowerPyx and GTABase both place it there and class it as an automatic story trophy that cannot be missed. That confirmation changes how you should treat the mission's personal moments. Earlier versions of this card warned that a conversation or choice inside it might secretly carry a trophy; the post-launch sources below remove that worry: GTABase states plainly that no trophy depends on how you play a mission, and PowerPyx's roadmap lists exactly one possibly missable trophy on the whole list, which is not this one. So play Child's Play for the story, take optional interactions because they are there rather than out of fear, and spend the attention you save on the thing Chapter 4 actually unlocks for the trophy run: the optional mission That's Where The Money Is…, which both sources name as the gateway to large bank vault robberies, and with them the Maximum Withdrawal, A Classic Blitz Play and Hot Together trophies.",
       "steps": [
-        "Reach Child's Play in the story sequence.",
-        "Take any optional interactions the mission offers before finishing objectives.",
-        "Complete the mission; the trophy unlocks at its end."
+        "Before starting Child's Play, save manually in a fresh slot — Chapter 4 is dense with unlocks, and a clean entry point is worth one slot.",
+        "Complete Child's Play as the story presents it; the trophy unlocks during the mission's completion, with no condition on choices or performance.",
+        "Tick the card, then check whether the Chapter 4 optional mission That's Where The Money Is… is now marked on your map — that marker, not this bronze, is the chapter's real prize for the crime stop.",
+        "If the bronze did not appear at completion, reload the pre-mission save and replay it the same day; there is no mission replay later."
       ],
-      "tip": "Optional dialogue and side interactions cost seconds and are the classic hiding place for one-off trophy triggers.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Spend fear where the sources say it belongs — one Chapter 1 meditation — and spend none here: a confirmed unmissable mission trophy is a place to enjoy the story with your guard down.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Chapter 4 placement, cannot-be-missed status and the bank-vault gateway mission: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 11,
@@ -234,14 +240,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Finish the story mission Headliners. As with the other named-mission bronzes, the official requirement is completion alone. Keep playing the campaign in order and this arrives on schedule; the card's job is bookkeeping, so tick it when it pops and move on. If you are replaying the story on a second save for any reason, these mission trophies are also the fastest way to confirm the replay is registering progress correctly.",
+      "guide": "Finish the story mission Headliners, a Chapter 4 main mission — PowerPyx and GTABase both place it there and class it as an automatic story trophy that cannot be missed. This card's old text suggested using the named-mission trophies to confirm that a story replay is registering progress; that advice is withdrawn, because the post-launch sources below confirm there is no mission replay in this game at all. The checkpoint idea survives in a sharper form: precisely because a missed registration can never be repaired by replaying, the audit has to happen at the only moment it can — immediately. When Headliners ends, stop for ten seconds and confirm three things before you play another mission: the bronze appeared, this card is ticked, and your rotating save from before the mission is still untouched. That ten-second habit, applied to every named-mission trophy, is the entire defence against the one failure mode this game's structure cannot forgive.",
       "steps": [
-        "Reach Headliners in the story sequence.",
-        "Complete the mission.",
-        "The trophy unlocks at mission completion."
+        "Before starting Headliners, save manually in a fresh slot and leave that slot untouched until the trophy is confirmed.",
+        "Complete Headliners as the story presents it; the trophy unlocks during the mission's completion, with no extra condition.",
+        "At the mission-complete screen, verify the pop before doing anything else: bronze seen, card ticked here, pre-mission save still intact.",
+        "If any of the three checks fails, reload the pre-mission save and replay the mission now — later there is no replay option to fall back on."
       ],
-      "tip": "Use these mission trophies as checkpoints: one missing from the set means a mission failed to register, and that is cheapest to fix the same day.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "In a game with no mission replay, 'check it popped' is not bookkeeping, it is the whole strategy — ten seconds at the completion screen replaces a feature the game does not have.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Chapter 4 placement, cannot-be-missed status and the absence of mission replay: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 12,
@@ -270,14 +277,15 @@
       "type": "story",
       "missable": false,
       "spoiler": true,
-      "guide": "Finish the story mission Operation Savage Glory. The requirement is completion, plainly worded; the card is spoiler-shielded because the mission sits late enough in the campaign that even discussing its setting gives story away. Play it when the story brings you to it, keep a save from before it starts until you are safely past it, and let the shield do its job if you are browsing this guide ahead of your playthrough.",
+      "guide": "Finish the story mission Operation Savage Glory. The requirement is completion, plainly worded; the card is spoiler-shielded because the mission sits in Chapter 5, the final chapter, and even discussing its setting gives story away — that placement, and its status as an automatic story trophy that cannot be missed, are the two facts the post-launch sources below confirm, and they are all this card will say about the mission itself. What can be said without spoilers is procedural, and it matters more here than anywhere else in the story: this is the last named-mission trophy before the finale, so it is the final chance to practise the endgame routine — a dedicated manual save before the mission, a confirmed pop at its end, and a checklist audit while the campaign's shape is still fresh. Do that audit properly and the finale becomes a formality: every story bronze ticked, the pre-finale save habit already automatic, and nothing left in the story column to wonder about.",
       "steps": [
-        "Save manually before starting Operation Savage Glory.",
-        "Complete the mission as the story presents it.",
-        "The trophy unlocks at completion."
+        "Before starting Operation Savage Glory, save manually in a fresh slot — your last story save before the finale routine begins.",
+        "Complete the mission as the story presents it; the trophy unlocks at completion, with no extra condition.",
+        "Confirm the pop at the completion screen, tick the card, and then audit the whole story set: every chapter trophy and named-mission bronze should now be ticked except the finale's gold.",
+        "Keep both this save and a new pre-finale save untouched from here on; with no mission replay, they are your only way back into the late campaign."
       ],
-      "tip": "Late-campaign missions deserve the fresh-save treatment even when nothing about them looks missable — you cannot know until afterwards.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "The shield hides this card's subject, not its procedure: save first, confirm the pop, audit the set — a routine you can follow without reading a single spoiler.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Chapter 5 placement and cannot-be-missed status: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 14,
@@ -414,14 +422,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Complete one arcade game — one, not all of them, and complete rather than merely play. Find an arcade cabinet, pick the shortest game on offer, and see it through to its end condition. This is deliberately the lightest card on the list; it exists to make you walk into an arcade once, which is also where you will notice any arcade-side activities your completion counter later asks about.",
+      "guide": "Complete one arcade game — one, not all of them, and complete rather than merely play: the post-launch sources below define completion as finishing all of a game's levels at least once, with no need to beat its challenges. You may not even need to leave home to do it. PowerPyx's and GTABase's guides agree there are four video games in total — Tenebrae Lux, Street Trash III and Time Jackers Rewind, playable at the TV at home by interacting with the controllers and available already during Chapter 1, plus Bang For Your Buck on arcade cabinets around Leonida. Pick whichever of the three home games suits you, play it at home during a quiet story gap, and the lightest bronze on the list is banked before most players have found an arcade. Note the availability caveat both sources imply: during some story sections the home TV is temporarily unavailable, but the games return afterwards and remain available after the story.",
       "steps": [
-        "Find an arcade and interact with a cabinet.",
-        "Choose the shortest game available and play it to completion.",
-        "The trophy unlocks when the game ends in completion."
+        "At home, interact with the controllers by the TV and choose one of the three home games: Tenebrae Lux, Street Trash III or Time Jackers Rewind.",
+        "Play that one game through all of its levels at least once — finishing the levels is the requirement; its side challenges are not.",
+        "The trophy unlocks when the game ends in completion; tick the card and count the session toward the arcade/video-game type in your Master of None sampling.",
+        "Fallback: if the home TV is unavailable during your current story section, use a Bang For Your Buck cabinet in the world instead, or simply wait — the home games are still there after the story."
       ],
-      "tip": "Do this during the sampling stop — it is a two-minute trophy hiding inside the Master of None tour.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Do not go hunting for an arcade for this one — the shortest route to the trophy is your own living-room TV in Chapter 1, and the cabinet game is the backup, not the plan.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The four games, the home-TV route and the definition of completion: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 22,
@@ -450,14 +459,16 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Complete Kenton's final mission, which means completing every Kenton mission before it. The title jokes about the sea, and contacts in this series usually stay in character — expect Kenton's work to keep you near the water, and bring appropriate transport when a mission starts rather than improvising mid-chase. As with every strand, the trophy is attached to the last mission, so partial progress pays nothing until the strand closes.",
+      "guide": "Complete Kenton's final mission — and now the strand has a concrete shape, because both post-launch sources below describe the same job. Kenton, marked with a green KR icon in Key Lento, hires you to recover treasure from seven shipwrecks: he marks purple chest icons on the map, you dive at those markers and use the metal detector to dig the treasure up, and you bring it back to him. Progress is tracked in the game under Progress > Collections > Kenton's Treasures, so the strand is never a memory test. The one behaviour that used to make players abandon this card is also explained by the sources: after Chapter 1 Kenton disappears for a while, then texts Jason again later in the game — GTABase says plainly that you can finish it then, and PowerPyx adds that all of his quests remain available after the story. A silent Kenton is a paused strand, not a failed one. One correction this card also owes you: despite being a stranger strand in everyday language, Kenton's line is not one of the strands the Strangers & Freaks silver is confirmed to count — see that card before you plan around it.",
       "steps": [
-        "Work Kenton's missions in the order they unlock.",
-        "Come equipped for coastal work — a boat or a fast car on the shore beats swimming.",
-        "Finish the final mission; the trophy unlocks at completion."
+        "Start the strand when Kenton's green KR marker appears in Key Lento during Chapter 1, and work the shipwrecks he marks in purple.",
+        "At each wreck, dive at the chest marker and sweep with the metal detector until the treasure is dug up, then return it to Kenton.",
+        "Check Progress > Collections > Kenton's Treasures after each delivery so your count of the seven wrecks is the game's, not your memory's.",
+        "If Kenton goes quiet after Chapter 1, do not camp on his shop: play other content until his text arrives later in the game, then finish the remaining wrecks — the strand is still completable after the story.",
+        "Complete the seventh wreck and his final mission; the trophy unlocks at completion."
       ],
-      "tip": "Strand trophies reward finishers: if two contacts are open at once, close the one with fewer missions left first.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Track wrecks, not sessions: 'four of seven, and he owes me a text' is a state you can act on next week; 'somewhere in Kenton's strand' is not.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Seven shipwrecks, the Key Lento marker, the tracking menu and Kenton's Chapter 1 disappearance and return: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 24,
@@ -468,14 +479,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Finish Billy's strand by completing his final mission. The pattern is the same as the other contact trophies — a chain of missions, one trophy at the end of it — and the working advice is identical too: keep the strand moving, and if Billy stops calling, progress something else and let the game cycle back to him. Count this card toward your eight finished strands for Strangers & Freaks once it lands.",
+      "guide": "Finish Billy's strand by completing his final mission — a chain of five jobs, and both post-launch sources below name them and the place they start. Billy's questline is marked automatically at the Thrillbilly Mudclub in Kelly County after the Chapter 2 main mission Coffee Break, and its five jobs run: Thrillbillies, Twist Wrist, Smash, Grab, Mall Rats, The Impaler, and finally Hometown Heroes, which awards the trophy. All five remain available after the story, so a paused Billy is never an emergency. This card also carries a correction to its own earlier advice: it used to tell you to count Billy toward your eight finished strands for Strangers & Freaks, and that was wrong. PowerPyx and GTABase both report that Billy's questline does not count toward that silver — the confirmed counting strands are other people's. Earn this bronze for itself, and plan the silver from the Strangers & Freaks card's confirmed list instead.",
       "steps": [
-        "Accept and complete Billy's missions as they appear.",
-        "Push other content if the strand pauses between missions.",
-        "Complete the final mission; the trophy unlocks at its end."
+        "After Chapter 2's Coffee Break, go to the Thrillbilly Mudclub in Kelly County where Billy's strand is marked.",
+        "Work the five jobs in order — Thrillbillies; Twist Wrist, Smash, Grab; Mall Rats; The Impaler; Hometown Heroes — ticking each one off as it closes.",
+        "Complete Hometown Heroes; the trophy unlocks at its end.",
+        "Do not add Billy to your Strangers & Freaks tally: per the sources below, this strand does not count toward the silver."
       ],
-      "tip": "Keep a running tally of finished strands on paper — eight is the silver threshold and it is easy to lose count at six.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Five named jobs beat one vague strand: if you cannot name the next Billy job on the list above, you are not stuck, you are between jobs — check the Mudclub marker.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Start point, the five job names, post-story availability and the Strangers & Freaks exclusion: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 25,
@@ -486,14 +498,16 @@
       "type": "long-haul",
       "missable": false,
       "spoiler": false,
-      "guide": "The silver for finishing eight whole stranger strands anywhere in Leonida. A strand means a contact's full mission chain, not a single mission, and the named contacts in this guide — Andy, Kenton, Billy, Randy, Tyrone and Bret — give you six of the eight from cards you were already earning. The remaining two come from strangers without their own trophy, so once the named six are done, sweep the map for unworked stranger markers instead of waiting for the phone to ring.",
+      "guide": "The silver for finishing eight whole stranger strands anywhere in Leonida — and this card has been rewritten because its earlier version was wrong in a way that would have wasted your hours. It claimed the six named contact strands on this list (Andy, Kenton, Billy, Randy, Tyrone and Bret) gave you six of the eight. The post-launch sources below report the opposite: the game does not count those questlines as Strangers & Freaks at all. PowerPyx names the strands confirmed to count — Kirk, Kyle, Yago and Pilot Pete, with more still being discovered — and lists Moses, Tyrone, Yasmani, Andy, Billy and Eddie among those that do not count; GTABase's list agrees on both the counting four and the exclusions. So plan the silver around the confirmed four, use the trophy's own progress tracker in your PlayStation trophy list as the authority for every further strand, and treat the named contacts' cards as what they are: separate bronzes worth earning, which simply do not pay into this silver. All of these strands remain available after the story, per both sources.",
       "steps": [
-        "Finish the six named contact strands (Andy, Kenton, Billy, Randy, Tyrone, Bret).",
-        "Hunt the map for any other stranger markers and complete two more full strands.",
-        "The silver unlocks when the eighth strand closes."
+        "Finish the confirmed counting strands first: Kirk, Kyle, Yago and Pilot Pete, completing each person's full chain, not just their opener.",
+        "After each finished strand, check the trophy's progress tracker in your PlayStation trophy list and record the new count here — the tracker, not this card, is the authority on what counted.",
+        "For the remaining strands, work other stranger markers you find in the world, and keep only the ones the tracker credits; expect the confirmed list to grow as the sources below update theirs.",
+        "Do not budget Andy, Kenton, Billy, Randy, Tyrone, Bret, Moses, Yasmani or Eddie toward this silver — per the sources below, their strands do not count.",
+        "The silver unlocks when the tracker reaches eight credited strands."
       ],
-      "tip": "Strands, not missions — if your count is stuck, you have probably half-finished three strands instead of finishing two.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 8), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "A stuck count at four is not a bug and not half-finished strands — it is the confirmed list running out. Check the tracker, then hunt new stranger markers instead of polishing contacts that never counted.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 8), as listed by Exophase and PSNProfiles. Which strands count (Kirk, Kyle, Yago, Pilot Pete) and which do not: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 26,
@@ -504,14 +518,16 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Complete Randy's final mission to close his strand. A title like Supply & Demand hints at delivery or dealing work, and missions of that kind punish two things: a damaged vehicle and a wanted level picked up early. Drive the cargo like it is your own, take the longer clean route over the shorter hot one, and the strand will move quickly. Finish the whole chain and the bronze is yours, along with another strand toward the silver.",
+      "guide": "Complete Randy's final mission to close his strand — which is not a chain of errands but a shopping list. Both post-launch sources below describe the same structure: Randy's Wish List opens after the Chapter 3 mission Clonin' Keys, Makin' GS, the mission that gives you the Key Cloner and has you deliver a sports car to Randy as part of the story. From there he wants sixteen named sports cars in total. He is marked with a green RK icon in the west of Vice City, the list itself is tracked under Map > Robberies > Randy's Wish List, and he marks some cars for you in fixed locations while others you simply find. The working method the sources support: scan high-end sports cars with the WAiNK app to see whether one is on his list — when you enter or scan a wanted car, the game prompts you to deliver it — and drive it to his garage intact, because both sources note that cars delivered in good condition pay more. GTABase adds the best hunting ground: hotel driveways around Vice Beach and Ocean Beach. The whole list can still be completed after the story. And one correction carried over from the silver's card: Randy's strand, like the other named contacts, does not count toward Strangers & Freaks.",
       "steps": [
-        "Run Randy's missions in sequence as they unlock.",
-        "Protect any cargo vehicle — arrive intact rather than fast.",
-        "Complete the final mission; the trophy unlocks at its end."
+        "Unlock the strand by playing Chapter 3's Clonin' Keys, Makin' GS, which gives you the Key Cloner and your first delivery to Randy.",
+        "Open Map > Robberies > Randy's Wish List and work from the game's list of sixteen cars, not from memory.",
+        "Hunt where the sources point: the cars Randy marks in fixed locations first, then hotel driveways around Vice Beach and Ocean Beach, scanning candidates with the WAiNK app (hold Up on the D-pad, then R1) to check them against the list.",
+        "Deliver each wanted car to Randy's garage (green RK icon, west Vice City) in good condition — a careful drive pays more than a fast one.",
+        "The trophy unlocks when the list is complete and his final mission closes; do not count this strand toward Strangers & Freaks."
       ],
-      "tip": "For delivery-style missions, route choice is the difficulty setting: quiet roads cost a minute and save the whole attempt.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Sixteen named cars is a checklist, not a vibe: if a sports car is not on the Wish List screen, it is traffic, however expensive it looks — scan first, steal second.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Wish List structure, sixteen cars, Key Cloner unlock, tracking menu, hunting grounds and condition-based pay: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 27,
@@ -522,14 +538,16 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Finish Tyrone's strand with its final mission. Nothing in the official wording adds conditions beyond the strand pattern shared by all the contact trophies, so the method is the family method: keep the chain moving, do not leave Tyrone half-finished while you start someone else, and tick the card the moment the last mission ends so your Strangers & Freaks count stays honest.",
+      "guide": "Finish Tyrone's strand with its final mission — a two-quest demolition job, not a long chain, and both post-launch sources below lay out the same sequence. Tyrone's questline is marked automatically after the Chapter 3 main mission Here, Kitty Kitty, and it is available only while playing as Jason. Purple map markers then show Synthetic Labs around Vice City: the first quest, Take Out Kitty Litter, has you destroying those labs, and once enough of them are gone Tyrone gives the second quest, Spin On This (Shut Down the Labs), which unlocks the trophy on completion. The whole strand remains available after the story. Two planning notes follow from the sources. First, character matters: if you arrive as Lucia, the strand will look absent when it is merely waiting for Jason. Second, the correction from the silver's card applies here too — Tyrone's strand is one of the questlines both sources explicitly list as not counting toward Strangers & Freaks, so tick this bronze for itself and keep your silver tally on the confirmed strands only.",
       "steps": [
-        "Complete Tyrone's missions in unlock order.",
-        "Finish the strand in as few sessions as you can manage.",
-        "The trophy unlocks when the final mission completes."
+        "Finish Chapter 3's Here, Kitty Kitty as part of the story, then switch to Jason — Tyrone's strand does not run for Lucia.",
+        "Follow the purple Synthetic Lab markers around Vice City and destroy labs for Take Out Kitty Litter, checking the markers off as each lab falls.",
+        "When Tyrone offers Spin On This (Shut Down the Labs), take it and shut down the remaining labs it names.",
+        "Complete that second quest; the trophy unlocks at its completion, and the strand can still be finished after the story if you left it.",
+        "Do not add Tyrone to your Strangers & Freaks tally: per the sources below, this strand does not count toward the silver."
       ],
-      "tip": "Five contact trophies share one method — learn it once here and the whole Strangers stop becomes routine.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "If Tyrone's markers are missing, check your character before you check the map — a Jason-only strand viewed as Lucia looks exactly like a bug and is neither.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Unlock point, Jason-only availability, the two quests and the Strangers & Freaks exclusion: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 28,
@@ -538,16 +556,18 @@
       "grade": "bronze",
       "category": "Collectibles",
       "type": "long-haul",
-      "missable": false,
+      "missable": true,
       "spoiler": false,
-      "guide": "Meditate at every meditation spot in Leonida — eighteen spots, per the starter data. This is a pure sweep trophy: the act at each spot is simple, so all the difficulty is in the finding and the bookkeeping. Fold the spots into the region-by-region sweep rather than hunting them separately, and tick each one in this app the moment you use it; the classic failure mode for this trophy is seventeen spots done and no idea which one is missing.",
+      "guide": "Meditate at every meditation spot in Leonida — eighteen spots, per the starter data — and this card now carries the watch flag, because both post-launch sources below identify it as the one possibly missable trophy on the entire list. The risk is a single Chapter 1 moment: PowerPyx reports that at some point in Chapter 1, in the morning after the mission Down to Earth, Lucia talks about meditating in the kitchen at Jason's house and walks out to the balcony; follow her, talk to her there and choose Accept, and she teaches you to meditate. That session raises the meditation counter by one but is not marked as a Meditation Spot like the others, it becomes permanently unavailable after Chapter 1, and — PowerPyx is explicit about this — it is still unconfirmed whether the trophy actually requires it; GTABase flags the same moment as possibly missable on the same reasoning. The honest summary: the other spots are a pure sweep, this one is a cheap insurance policy. Take the two minutes in Chapter 1 and the question never matters. For the sweep itself, both sources add the mechanics that make it tractable: meditating at a spot with both Jason and Lucia counts twice at the same location, progress is tracked under Progress > Collections > Exploration > Meditations, and the final spot cannot be done until playing both characters together unlocks in Chapter 2.",
       "steps": [
-        "During each region's sweep, visit every meditation spot in that region.",
-        "Use the spot fully so the visit registers, then tick the region off your list.",
-        "The trophy unlocks when the eighteenth spot has been used."
+        "In Chapter 1, the morning after Down to Earth, talk to Lucia in the kitchen at Jason's house, follow her to the balcony when she goes to meditate, and choose Accept — before you finish Chapter 1, because the moment does not come back.",
+        "From then on, fold the remaining spots into the region-by-region sweep, meditating with both characters at each spot where the game allows it, since a shared session counts twice at one location.",
+        "After each spot, check Progress > Collections > Exploration > Meditations and tick the spot here against the game's counter, not your memory.",
+        "Leave any spot that needs both characters together until after Chapter 2 unlocks playing as the pair, then return for it during the sweep.",
+        "The trophy unlocks when the counter reaches the full set of spots."
       ],
-      "tip": "Work region by region and write the region down — 'somewhere by the coast' is not a tracking system, and this trophy punishes vague notes.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles; the count of 18 spots comes from the kit's starter data for this list. Method: this guide's own."
+      "tip": "One two-minute conversation in Chapter 1 is the difference between a relaxing sweep and a permanently open question — take the meditation when Lucia offers it, and let the other seventeen spots be the easy part.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles; the count of 18 spots comes from the kit's starter data for this list. Possibly-missable Chapter 1 meditation, the both-characters counting rule and the tracking menu: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026; both sources note it is not yet confirmed whether the trophy requires that first meditation. Method: this guide's own."
     },
     {
       "id": 29,
@@ -594,14 +614,16 @@
       "type": "long-haul",
       "missable": false,
       "spoiler": false,
-      "guide": "Use WAiNK at one hundred locations. The official list gives the verb and the count and nothing else — what WAiNK is, the game itself will show you, and the starter data carries the same count of 100. Treat this exactly like the meditation spots: a location-based count that belongs inside the regional sweep, ticked off district by district. Counts of this shape are only ever lost to bookkeeping, never to difficulty.",
+      "guide": "WAiNK It at one hundred locations — and the verb is no longer a mystery, because both post-launch sources below describe the same mechanic. WAiNK is a phone app used for scanning: hold Up on the D-pad and then R1, and the objects in front of you that count are environmental points of interest, which the sources break down by kind — 31 Landmarks, 35 Curiosities and 23 Sculptures, plus the No Flusher tags — with more than one hundred available in total, so any one hundred of them completes the trophy and no single location is compulsory. GTABase adds that the app itself arrives automatically in Chapter 1. The method follows from the shape of the count: scanning is a two-button habit that costs seconds, so attach it to travel you already do — scan at every new viewpoint, building and oddity the story and the sweep put in front of you, rather than planning a scanning tour. And note the overlap the sources reveal: the same app, with the same two buttons, is how vehicles get scanned for Whip It Good and for Randy's Wish List, so one raised phone often feeds three cards at once.",
       "steps": [
-        "Learn what a WAiNK location looks like the first time the game shows you one.",
-        "Use every location the regional sweep passes; note the district as you go.",
-        "The silver unlocks at the hundredth location."
+        "From Chapter 1, when the WAiNK app is on your phone, learn the gesture once: hold Up on the D-pad, then R1 to scan what you are looking at.",
+        "Scan every landmark, curiosity, sculpture and No Flusher tag the story and the regional sweep put in front of you; any 100 count, so never backtrack for one you passed.",
+        "When you stop to scan, sweep the phone across nearby vehicles too — the same scan feeds Whip It Good and checks cars against Randy's Wish List.",
+        "Check your running total in the game's progress menus whenever a region is finished, and top up in the densest district you know if a region left you short.",
+        "The silver unlocks at the hundredth scanned location."
       ],
-      "tip": "Pair this with the meditation spots on the same sweep — two location lists, one journey, half the travel.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 100), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "One hundred scans is a habit wearing a grind's clothes: players who scan at every stop finish without a tour, and players who plan a tour discover they needed a hundred separate stops.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 100), as listed by Exophase and PSNProfiles. Scanning mechanic, input, location categories and Chapter 1 availability: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 32,
@@ -628,16 +650,17 @@
       "grade": "bronze",
       "category": "Partner & Crime",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": false,
-      "guide": "Lose a four-star wanted level while your partner is with you, and get clear. Every clause matters: four stars, partner present, and the level fully lost — dying, being arrested, or dropping only to two stars earns nothing. It is on the watch list because partner availability may be tied to story state, so attempt it while your partner is definitely around rather than assuming the option exists forever. Set the attempt up deliberately: raise the level in ground you know, then break line of sight and keep moving through cover until the stars drain.",
+      "guide": "Lose a four-star wanted level while your partner is with you, and get clear — off the watch list, because the window and the method are now confirmed by both post-launch sources below. The earliest you can attempt it is after Chapter 2's main mission Coffee Break, which unlocks free-roaming together as Jason and Lucia; from then on you call your partner by holding Right on the D-pad and pressing Triangle. Raise four stars with your partner present, then escape — and note the exact finish line both sources give: the trophy unlocks after you drive out of the red heat zone, not when you leave the flashing search area, so keep going until you are clear of the red. Their recommended route is specific: a fast sports motorcycle, and the train tunnel north of Ambrosia in Kelly County, where police have trouble following on the tracks and the helicopter cannot see you. If a helicopter is chasing, shoot at it until it breaks off. And if deliberate setups keep failing, both sources note the trophy tends to arrive on its own: the large bank vault robberies unlocked in Chapter 4 automatically give a four-star wanted level, and escaping one of those with your partner present is the same trophy earned by accident.",
       "steps": [
-        "Bring your partner along and choose ground with alleys, cover and more than one exit.",
-        "Raise your wanted level to four stars and keep your partner with you.",
-        "Break line of sight, stay out of search cones, and let the level drain to zero."
+        "Wait until Chapter 2's Coffee Break is complete, then call your partner (hold Right on the D-pad, press Triangle) so you are free-roaming together.",
+        "Raise your wanted level to four stars with your partner with you — sustained carnage gets there; a large bank vault robbery, once unlocked in Chapter 4, gives four stars automatically.",
+        "On a fast sports motorcycle, head for the train tunnel north of Ambrosia in Kelly County; ride the tracks through it to break police pursuit and helicopter sight.",
+        "Keep going until you have driven out of the red heat zone entirely — leaving only the flashing search area is not enough — and the trophy unlocks as you clear it."
       ],
-      "tip": "Escaping is a navigation test, not a driving test — the players who fail keep being seen, so change direction and elevation, not just speed.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Partner availability windows are not yet public; the deliberate-setup method is this guide's own."
+      "tip": "Most failed attempts end one zone too early: players relax when the flashing stops, inside the red. Ride until the red is behind you; the tunnel buys the distance, the zone boundary pays the trophy.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Unlock window (after Coffee Break), partner call input, heat-zone finish line, Ambrosia tunnel route and the bank-vault route: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 34,
@@ -646,16 +669,18 @@
       "grade": "bronze",
       "category": "Partner & Crime",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": false,
-      "guide": "Rob three shops in a row with your partner, without your wanted level dropping in between. The constraint is continuity: the run is one unbroken piece of heat, so plan it like a relay — pick three shops close together in an area you know, with a fast car staged outside the first and escape routes between each. The robberies themselves are quick; the trophy is won or lost on the driving and on never letting the stars blink out between shops.",
+      "guide": "Rob three shops in a row with your partner, without your wanted level dropping in between — off the watch list, because both post-launch sources below now give the working version of this run. It opens after Chapter 2's Coffee Break, when you can switch between and travel with both characters, and the targets are the robbery locations marked with green icons on the map. The level you must maintain is the red-and-blue flashing wanted level — PowerPyx is explicit that the red heat level is a different state and is not what this trophy tracks. Preparation is named, not implied: an armoured vest and sticky bombs from Ammu-Nation, and healing items (Zombix or Adrenaline, per PowerPyx), with your partner called in first (hold Right on the D-pad, press Triangle). The cluster both sources recommend is the three jewellery stores in the north of Vice City, available after Yasmani's Jewelry Jobs in Chapter 3; PowerPyx adds the detail that makes a robbery count — loot a couple of items in each store and ideally go into the back room and break the safe with sticky bombs, because leaving the first store before the police arrive can leave the run short, in which case a fourth store fixes it. Expect the unlock to lag: both sources report it can take about thirty seconds after the third shop, so do not restart a good run just because nothing popped at the till.",
       "steps": [
-        "Scout a cluster of three shops within short drives of each other.",
-        "With your partner present, rob the first shop and keep the wanted level alive on the way to the second.",
-        "Rob the second and third back-to-back, never letting the level fully drop."
+        "After Chapter 2's Coffee Break, prepare: call your partner (hold Right on the D-pad, press Triangle), equip an armoured vest, and carry sticky bombs and a healing item.",
+        "Head for the three jewellery stores in the north of Vice City (available after Yasmani's Jewelry Jobs in Chapter 3) — the closest cluster of green-icon robbery targets.",
+        "Rob the first store properly: take a couple of items and, if you can, break the back-room safe with sticky bombs, then move to the second store while the red-and-blue flashing wanted level is still alive — never let it fully clear between stores.",
+        "Rob the second and third the same way, keeping the flashing wanted level continuous throughout.",
+        "Wait up to thirty seconds after leaving the third store for the delayed unlock; if it still has not landed, rob a fourth store while staying wanted and it should follow."
       ],
-      "tip": "Rehearse the route empty first. The attempt is short enough that one wrong turn, not the police, is the usual reason it fails.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Partner availability windows are not yet public; the route-planning method is this guide's own."
+      "tip": "The run fails in the gaps, not the stores: your wanted level is a baton, and the only rule of the relay is that it never touches the ground — if the flashing stops between shops, the count restarts, however good the robberies were.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Unlock window, flashing-level rule, preparation, north Vice City jewellery cluster, safe detail, delayed unlock and fourth-store fallback: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 35,
@@ -666,14 +691,15 @@
       "type": "long-haul",
       "missable": false,
       "spoiler": false,
-      "guide": "Discover one hundred different vehicles. Discovery in this series normally means getting in and driving a model for the first time, and one hundred distinct models is a count the game feeds you naturally if you let it: the mistake is loyalty. Swap into parked and passing vehicles you have not driven, vary the districts you travel through because vehicle pools are regional, and rich neighbourhoods, docks and airports are where the unusual metal lives.",
+      "guide": "Discover one hundred different vehicles — and this card's method has been corrected, because discovery in this game is not what the series led us to expect. The old version told you to get in and drive each new model; both post-launch sources below say discovery is done by scanning, with the WAiNK app: hold Up on the D-pad to raise it, look at a vehicle and hold R1 to scan it into your database. Driving the vehicle is not required — GTABase is explicit that you do not need to drive them at all, and PowerPyx's fastest method is simply to stand beside a busy road and scan the traffic passing. That turns a hundred-vehicle grind into a posture: wherever you already are, when unfamiliar metal passes, scan it. Progress is visible under Touchpad > Progress > Vehicles, where scrolling each category shows its found total. Keep perspective, too: the 100% checklist wants 200 base-model vehicles scanned, so a player working that list passes this trophy's hundred on the way without a dedicated session.",
       "steps": [
-        "From the story onwards, drive what you find instead of summoning your usual car.",
-        "Deliberately sample parked vehicles in new districts — ports, airports and wealthy areas especially.",
-        "The trophy unlocks when the hundredth distinct vehicle is discovered."
+        "Learn the scan once: hold Up on the D-pad for the WAiNK app, look at a vehicle, hold R1 until it registers as discovered.",
+        "Scan unfamiliar vehicles wherever you meet them — parked rows in new districts, and passing traffic when you are standing anywhere busy.",
+        "For a deliberate push, stand beside a busy road and scan everything that passes until the session's new models dry up, then change district and repeat.",
+        "Check Touchpad > Progress > Vehicles to see the running total per category; the trophy unlocks at the hundredth distinct vehicle scanned."
       ],
-      "tip": "If the count stalls in the nineties, you are re-driving your favourites — spend one session driving nothing you recognise.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 100), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "If your count stalls, the problem is your feet, not your garage: you are standing in districts whose traffic you have already scanned — move somewhere richer, portside or airborne, and the new models return.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 100), as listed by Exophase and PSNProfiles. Scanning mechanic and inputs, no-driving rule, busy-road method and progress menu: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 36,
@@ -700,16 +726,17 @@
       "grade": "bronze",
       "category": "Curios",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": false,
-      "guide": "Make an 'unscheduled departure' at VCIA, the airport. The official phrase is a joke with a specific act hiding inside it — most plausibly, taking off in an aircraft you were never cleared to take, or leaving the airport in a way the airport did not intend. The exact trigger was not confirmed in public when this guide was written, so treat this as an experiment, not a fact: save manually before you enter the airport grounds, then test the obvious candidate — board a plane on the apron and take off without any mission or permission attached. If it pops, done; if not, reload and try departing by vehicle through a non-public exit. The save makes each test free.",
+      "guide": "Make an 'unscheduled departure' at VCIA, the airport — off the watch list, because the joke now has a confirmed answer, and it is more specific than this card's original guess. Both post-launch sources below agree: the aircraft has to be one of the large passenger jets docked at a departure gate's boarding bridge; planes parked out on the airfield do not count. The easiest targets are the jets at gates E3 and E4 — GTABase's route is to drive through the airfield fence and use the door by the stairs next to the boarding bridge, while PowerPyx describes entering the plane, going upstairs to the cockpit, and backing it out to the airstrip. Either way the act is the same: steal the docked jet, take off, and fly about one kilometre away from the airport. Expect the unlock to lag the takeoff — PowerPyx puts the trigger distance at roughly 1 km (0.6 miles), so a departure that has not popped while you are still over the fence has not failed yet. The save-first habit from the old version of this card is still good practice for the drive in, but the experiment is over: this is a recipe now, not a theory.",
       "steps": [
-        "Save manually outside VCIA before the attempt.",
-        "Enter the apron area, board an aircraft and take off without a mission active.",
-        "If that does not trigger it, reload and test an unauthorised vehicle exit instead — never spend more than one idea per save."
+        "Save manually outside VCIA, then head for the passenger jets docked at departure gates E3 or E4 — not the planes parked on the open airfield.",
+        "Get in: drive through the airfield fence and use the door by the stairs next to the boarding bridge, or enter through the terminal on foot.",
+        "Go upstairs to the cockpit, back the jet out to the airstrip and take off.",
+        "Fly about 1 km away from the airport and give the delayed unlock a moment to land before judging the attempt."
       ],
-      "tip": "Watch-list rules apply: one experiment per save, and write down what you tried — failed theories are progress on a trophy like this.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact trigger is not yet confirmed in public; the candidates above are this guide's own reading of the wording, offered as tests, not facts."
+      "tip": "Docked is the whole word in this recipe: if the jet was sitting on the apron with no bridge attached, you stole the wrong plane beautifully — go back for one at a gate.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Docked-jet requirement, gates E3/E4, entry route and the roughly 1 km trigger distance: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 38,
@@ -718,16 +745,17 @@
       "grade": "bronze",
       "category": "Combat",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": false,
-      "guide": "The description is a pun and a warning: Rhinos are tanks, and it gets hot around them. What the trophy actually counts — surviving an encounter with a tank, destroying one, riding in one, outrunning one — was not confirmed in public when this guide was written, so this card gives you a safe experimental method instead of a confident claim. Save first. Then, when military heat or a military location puts a Rhino in front of you, test the candidates in order of danger: stay in its presence under fire briefly, escape it, and only in a later attempt try to destroy or commandeer it. Reload between candidates so each test is clean.",
+      "guide": "The description is a pun and a warning: Rhinos are tanks, and it gets hot around them — off the watch list, because of the candidates this card originally listed (survive one, destroy one, ride in one, outrun one), the post-launch sources below confirm the third, with an address attached. Both PowerPyx and GTABase say the same thing: steal a tank from Mile Zero Air Station, on the south-west island in Mariana County, where the tanks stand at the south end of the base, and take out enemies from inside it until the trophy pops. PowerPyx's entry route is to drive through the gate, or take the stunt jump next to the south-east entrance. So the method inverts the old card's caution: you are not surviving an encounter with a Rhino, you are causing one, from the driver's seat, and the save you make beforehand is no longer for testing theories — it is for the drive home if the base visit goes wrong before the trophy lands. Keep shooting from inside the tank; getting out to fight on foot is the one version of this the sources do not describe.",
       "steps": [
-        "Save manually before provoking any military response.",
-        "Get a Rhino's attention and survive in its vicinity for a short spell, then break away.",
-        "If that fails, reload and test the next candidate — escape, destruction, or taking the vehicle — one per save."
+        "Save manually before travelling, then head to Mile Zero Air Station on the south-west island of Mariana County.",
+        "Enter the base — through the gate, or via the stunt jump by the south-east entrance — and go to the tanks at the south end.",
+        "Get into a tank and stay in it.",
+        "Take out enemies from inside the tank until the trophy unlocks."
       ],
-      "tip": "Never experiment with a tank on an unsaved run: Rhinos end experiments quickly, and the reload is the whole point of the method.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact trigger is not yet confirmed in public; the candidates above are this guide's own reading of the wording, offered as tests, not facts."
+      "tip": "The trophy is a theft followed by a shooting spree, in that order and from that seat: if you are on foot admiring the Rhino, you are doing the old card's experiment, not this one's recipe.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Mile Zero Air Station location, tank position and the steal-and-shoot trigger: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 39,
@@ -828,14 +856,15 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Have a cocktail somewhere with a view on Ocean Beach. Of all the cryptic cards, this one reads the most literally: a place (Ocean Beach), an act (drinking a cocktail), and a condition (a view — which likely means a specific bar, terrace or rooftop rather than any sand with a drink in hand). It is not flagged as a watch item because bars and beaches are free-roam fixtures you can revisit at will. Go to Ocean Beach, find the spot that sells cocktails and overlooks the water, order one, and let the moment play out.",
+      "guide": "Have a cocktail somewhere with a view on Ocean Beach — a place, an act and a condition, and the venue is now named by a single post-launch source, stated plainly so you can weigh it. PowerPyx's trophy guide, illustrated with screenshots, identifies the spot as the Ocean View Rooftop Bar: go there, buy an Apple Martini, and drink it while standing next to the bar, which unlocks the trophy. GTABase's trophy list, checked the same day, still describes this trophy's exact steps as unconfirmed, so this card presents the rooftop method as PowerPyx's account rather than settled fact — but it is a cheap test either way: one drink at one named bar. The old version's instinct survives in the specifics — the 'view' in the description was indeed doing work, and the answer to it was height: not a towel on the sand, not any beachside counter, but a rooftop over the water. If the martini at that bar does not land it, you have spent the price of a cocktail learning that the single source was wrong, and the fallback is the old sweep: try the next spot with a view along the same beach, highest first.",
       "steps": [
-        "Travel to Ocean Beach and look for a bar or terrace overlooking the water.",
-        "Order or drink a cocktail there.",
-        "The trophy unlocks as the moment registers — if one venue fails, try the next spot with a view along the same beach."
+        "Travel to the Ocean View Rooftop Bar on Ocean Beach.",
+        "Buy an Apple Martini at the bar.",
+        "Drink it while standing next to the bar; the trophy should unlock as the moment registers.",
+        "Fallback, if it does not: work along Ocean Beach's other spots with a view, highest first, ordering a cocktail at each — the description's three conditions (place, drink, view) are the checklist."
       ],
-      "tip": "The word 'view' is doing work in this description — if a beachside drink does not count, go higher: a terrace beats a towel.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact venue is not named in public sources; the reading above is this guide's own, based on the official wording."
+      "tip": "Go up before you go along: every failed ground-level drink is tuition for the same lesson — in this description, 'with a view' means above the beach, not on it.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Venue and drink (Ocean View Rooftop Bar, Apple Martini): PowerPyx, GTA 6 Trophy Guide & Roadmap, checked 20 November 2026. Note: GTABase's trophy list, checked the same day, still listed this trophy's exact steps as unconfirmed; the method above is PowerPyx's, attributed as such. Method framing: this guide's own."
     },
     {
       "id": 45,
@@ -844,16 +873,17 @@
       "grade": "bronze",
       "category": "Curios",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": false,
-      "guide": "Smash your way out of a vehicle showroom, 'in classic style'. The classic style is the joke every series veteran will read the same way: get into a car inside the showroom and drive it out through the glass. Whether any showroom at any time qualifies, or whether the act belongs to a specific mission moment, was not confirmed in public when this guide was written — hence the watch flag and the standing method: save before you try it in free roam, steal a showroom car, and exit through the window rather than the door. If it does not pop, you have lost nothing but glass, and the mission-based candidate remains to test when the story next puts you in a showroom.",
+      "guide": "Smash your way out of a vehicle showroom, 'in classic style' — and the classic style turns out to be one specific car, which is why this card's old any-showroom method would have failed forever. This update rests on a single named source, stated plainly so you can weigh it: PowerPyx's post-launch trophy guide, which illustrates the method with screenshots, reports that the trophy requires stealing the blue Banshee from the vehicle showroom in the south of Vice City, and that it unlocks only from that car, not from any other — an Easter egg reference to the Banshee of GTA III. The car can only be taken after you obtain the Key Cloner in the Chapter 3 main mission Clonin' Keys, Makin' GS: hack into the Banshee, drive forward and straight through the showroom window, and keep driving — the unlock is slightly delayed and pops after you have driven further away on the street. GTABase's trophy list, checked the same day, still describes this trophy's exact steps as unconfirmed, which is why this card names its source in the text instead of presenting the method as settled everywhere: one detailed, illustrated, post-launch guide against another guide's not-yet. If you try it and it does not pop, the cost is one stolen car and some glass.",
       "steps": [
-        "Save manually before entering a vehicle showroom.",
-        "Get into one of the display cars.",
-        "Drive out through the showroom glass; the trophy unlocks if the act registers — otherwise reload and note the attempt."
+        "Progress the story until you have the Key Cloner from Chapter 3's Clonin' Keys, Makin' GS — the car cannot be taken before that.",
+        "Go to the vehicle showroom in the south of Vice City and find the blue Banshee inside it.",
+        "Hack into the Banshee with the Key Cloner and get in.",
+        "Drive forward, straight out through the showroom window, and keep driving away down the street; the slightly delayed trophy should pop as you leave the area."
       ],
-      "tip": "Use the biggest window and the heaviest car on the floor — if style is being judged, commit to it.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact trigger is not yet confirmed in public; the method above is this guide's own reading of the wording, offered as a test, not a fact."
+      "tip": "Car first, glass second: any other showroom car through any other window is just vandalism — the recipe is the blue Banshee, the south Vice City showroom, and a straight line out.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Specific-car method, Key Cloner requirement and delayed unlock: PowerPyx, GTA 6 Trophy Guide & Roadmap, checked 20 November 2026. Note: GTABase's trophy list, checked the same day, still listed this trophy's exact steps as unconfirmed; the method above is PowerPyx's, attributed as such. Method framing: this guide's own."
     },
     {
       "id": 46,
@@ -864,14 +894,16 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Do the thing at the named place: Kolt & Associates' bowling alley. The official wording — 'follow-through' — points at actually bowling there, completing the act of a throw or a game at that specific alley rather than any lane in the state. Named-location trophies are forgiving in one way: the place is fixed, so if your first visit does not register, the variables are what you did there, not where you went. Play a full game at the alley and the card should close.",
+      "guide": "Do the thing at the named place — except the thing is not bowling, and this card has been rewritten because its original reading of 'follow-through' was wrong. Both post-launch sources below describe the same real trigger: the Kolt & Associates alley is Kingpin Bowling in Port Gellhorn, and it is a gang operation, not a leisure venue. The trophy is for stealing all three key valuables there: the luxury watch in the south-east office, the unique Gutterball Moreland 850 shotgun on the table in the north-east corner, and the safe in the north-east hallway, which you blow open with sticky bombs — so buy sticky bombs at an Ammu-Nation before you go. The alley is first marked by the Chapter 2 optional mission Hit Kingpin Bowling. The trophy pops once you lose the police after the robbery, not at the moment you pick up the third item, and the sources are clear on the two facts that make it forgiving: you do not need all three valuables in one visit, and the trophy is not missable — if you took two during the optional mission, wait for the robbery icon to respawn (it takes a long time) and go back for the third. Killing the enemies inside is not required.",
       "steps": [
-        "Travel to the Kolt & Associates bowling alley.",
-        "Play a game of bowling there, through to its end.",
-        "The trophy unlocks on completion — if a single throw was not enough, the full game is the fallback that covers the wording."
+        "Before going, buy sticky bombs at an Ammu-Nation — the safe cannot be opened without them.",
+        "Go to Kingpin Bowling in Port Gellhorn (the Kolt & Associates alley), first marked during Chapter 2's Hit Kingpin Bowling.",
+        "Take the three key valuables: the luxury watch in the south-east office, the Gutterball Moreland 850 shotgun on the north-east table, and the safe in the north-east hallway, blown open with sticky bombs.",
+        "Escape and lose the police; the trophy unlocks once you are clear, not at the third pickup.",
+        "If you missed one valuable, wait for the robbery icon to respawn and return for it — the three do not have to happen in a single visit."
       ],
-      "tip": "When a description names one specific venue, do the complete version of the activity there — partial versions are how these trophies stay unearned.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own reading of the official wording."
+      "tip": "Nobody here wants you to bowl: read gold icons, not lane numbers — the three valuables are the game, and the pins are set dressing for a robbery.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Kingpin Bowling identity, the three valuables and their locations, sticky-bomb safe, escape condition and not-missable status: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 47,
@@ -880,16 +912,18 @@
       "grade": "bronze",
       "category": "Curios",
       "type": "story",
-      "missable": true,
+      "missable": false,
       "spoiler": true,
-      "guide": "The vaguest card on the list: 'a partnership with mass appeal'. Nothing in the official text names a place, an act or a count, and no public source confirmed the trigger when this guide was written — so this card will not invent one. What the wording supports: it involves your partner, and 'mass appeal' suggests an audience — something done together, in public, that draws attention or approval. It is spoiler-shielded and watch-flagged because trophies worded like this usually belong to a specific story or partner moment rather than free roam. Practical method: keep a save before major partner missions, play those missions attentively and take every optional joint activity they offer, and if a public, crowd-pleasing moment presents itself, do it rather than walking past. If it pops, note where — your note is worth more than this paragraph.",
+      "guide": "The vaguest wording on the list — 'a partnership with mass appeal' — and the answer, now reported by both post-launch sources below, is a pun hiding a stat: mass means muscle. PowerPyx and GTABase agree that this trophy unlocks when both characters, Jason and Lucia, have maximum Strength at the same time. 'Personal best' is the gym joke; 'partnership' is the requirement that both of them, not one, are at the cap. You can check either character's Strength via Touchpad > Jason & Lucia > select the character > Strength. Training only opens up after Chapter 2's Coffee Break, when you can switch between both characters, and the efficient method is the one both sources describe: always work out together. Call your partner along (hold Right on the D-pad, press Triangle), buy a membership at a fitness club — they are all over Vice City and filterable under Map > Activities — and train: while you actively work out with one character, the other completes their training too, so the pair progress together instead of in two separate grinds. After the story you can also train at home. The card keeps its spoiler shield — the official description is story-adjacent by design — but it has left the watch list: the trigger is a grind with a progress bar, not a moment you can walk past.",
       "steps": [
-        "Keep rotating saves before partner-heavy missions.",
-        "Take every optional activity a partner mission offers, especially anything performed in front of a crowd.",
-        "If the trophy pops, record the moment in this app's notes habit — reload-and-test is the fallback if a mission ends without it."
+        "Finish Chapter 2's Coffee Break so both characters are available and switchable.",
+        "Call your partner (hold Right on the D-pad, press Triangle) and go together to a fitness club — filter Map > Activities to find one — and buy a membership.",
+        "Work out with one character while your partner trains alongside; check both Strength bars afterwards via Touchpad > Jason & Lucia > Strength, and repeat sessions until the first character caps.",
+        "Keep training together until the second character also reaches maximum Strength — the trophy needs both at the cap at the same time, and unlocks when the second one gets there.",
+        "After the story, home workouts are an alternative venue if a club routine has gone stale."
       ],
-      "tip": "For deliberately cryptic trophies, your own experiment log beats any guide — write down what you tried and where, one line each.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The trigger is not confirmed in any public source this guide could check; the reading above is this guide's own and is labelled as such."
+      "tip": "Train as a pair or pay twice: solo sessions raise one bar, joint sessions raise both — the partnership in the description is the method, not the flavour.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Maximum-Strength-for-both trigger, Coffee Break start point, partner training method and Strength menu path: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     },
     {
       "id": 48,
@@ -918,14 +952,15 @@
       "type": "skill",
       "missable": true,
       "spoiler": true,
-      "guide": "Fail at something, then succeed at it on the second try — that is the plain reading of 'second time's the charm', and it is all the official text gives. Which activity, and whether the failure must be at a specific scripted moment, was not confirmed in public when this guide was written. The trophy is watch-flagged and shielded because retry-shaped trophies often attach to one specific event. Method: whenever the game gives you a genuine fail state with an immediate retry — a race, a challenge, a mission check — take the retry seriously rather than reloading to erase the failure, and if a story moment ever forces a second attempt, let it happen on the save you kept rather than restoring to avoid it.",
+      "guide": "Fail at something, then succeed at it on the second try — that is the plain reading of 'second time's the charm', and it is all the official text gives. This card stays on the watch list, and a fresh check on 20 November 2026 says it should: PowerPyx's post-launch trophy guide lists this trophy as currently unknown, and GTABase's trophy list likewise says its exact steps are not confirmed yet. PowerPyx does record one unconfirmed lead, labelled here exactly as they label it — a belief, not a method: the trophy is believed to be related to the Payday Loans store from the Prologue, in Vice City's Little Cuba, possibly robbing it again later in a specific manner. Treat that lead the way this guide treats all unconfirmed triggers: if you are passing that store anyway, a save-first experiment costs little, but do not build a session around it. The standing method below is unchanged, because it remains the only approach the official wording itself supports: whenever the game gives you a genuine fail state with an immediate retry — a race, a challenge, a mission check — take the retry seriously rather than reloading to erase the failure.",
       "steps": [
         "Do not reload away honest failures in retryable activities — retry them in place.",
         "When a retry succeeds, watch for the trophy; note the activity if it pops.",
-        "If you suspect a specific story moment is the trigger, test it from a spare save: fail once deliberately, succeed on the retry."
+        "If you suspect a specific story moment is the trigger, test it from a spare save: fail once deliberately, succeed on the retry.",
+        "Optional, unconfirmed lead only: if you pass the Prologue's Payday Loans store in Little Cuba, you may test a save-first robbery there — PowerPyx records a belief, not a confirmation, that the trophy involves it."
       ],
       "tip": "Perfectionist habits hide this trophy — the reload-before-anyone-saw reflex is exactly what 'second time' trophies punish.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact trigger is not yet confirmed in public; the reading above is this guide's own, offered as method, not fact."
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Still-unknown status and the unconfirmed Payday Loans lead: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. The retry method is this guide's own, offered as method, not fact."
     },
     {
       "id": 50,
@@ -934,16 +969,17 @@
       "grade": "bronze",
       "category": "Curios",
       "type": "skill",
-      "missable": true,
+      "missable": false,
       "spoiler": true,
-      "guide": "Witness something strange. The description is a gasp, not a specification, and no public source confirmed the event when this guide was written. The series has a long tradition of odd encounters in out-of-the-way places at odd hours, and the wording — witness, not do, not find — suggests being present for an event rather than completing a task. Method: explore the remote corners the sweep takes you to anyway, linger when the game does something unexplained instead of driving on, and keep the watch flag in mind at night in the wilderness. If a strange event starts, stay and watch it finish.",
+      "guide": "Witness something strange — and the strange thing now has a name, a place and a time of night, on a single named source's evidence, stated plainly so you can weigh it. PowerPyx's post-launch trophy guide, illustrated with screenshots, identifies this trophy as the UFO Easter egg: at the road north-west of the Starlet Motel in Kelly County, at night after 2AM, and you must come solo. The event is slightly random and not a guaranteed spawn: sometimes a blinking car is parked at the roadside, and if it is not there, drive away and come back. If the car is there, follow the path beside it into the woods and you will see the UFO — a bright blue light in the sky. Approach it, and the UFO drops a woman it abducted; talk to her, offer to help, and walk her back to her car at the roadside, which unlocks the trophy. GTABase's trophy list, checked the same day, still described this trophy's exact steps as unconfirmed, which is why this card attributes the method to PowerPyx in the text rather than presenting it as settled everywhere. The card keeps its spoiler shield — the event is a surprise by design — but leaves the watch list on the strength of that one detailed, illustrated account: a random spawn you can re-attempt any night is not a moment you can miss.",
       "steps": [
-        "During sweeps, detour into remote spots rather than only following roads.",
-        "When something unexplained happens, stop and witness the whole event.",
-        "The trophy unlocks on witnessing the right strange moment — note the place and time if it pops."
+        "Go solo, at night after 2AM, to the road north-west of the Starlet Motel in Kelly County.",
+        "Look for a blinking car parked at the roadside; if it is not there, drive away and return — the spawn is random, so repeat visits are the method, not a failure.",
+        "When the car is there, follow the path beside it into the woods toward the bright blue light in the sky and approach the UFO.",
+        "When it drops the abducted woman, talk to her, offer to help, and escort her back to her car at the roadside; the trophy unlocks as the encounter completes."
       ],
-      "tip": "Exploration trophies and this one are natural partners: the player sweeping all fifty-two areas slowly is the player this event finds.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. The exact event is not confirmed in any public source this guide could check; the method above is this guide's own."
+      "tip": "Solo, after 2AM, and patient about the spawn: two of those are conditions and the third is the price — if the roadside is empty, the correct move is a loop around the block, not a new theory.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. UFO encounter, location, time, solo condition and escort steps: PowerPyx, GTA 6 Trophy Guide & Roadmap, checked 20 November 2026. Note: GTABase's trophy list, checked the same day, still listed this trophy's exact steps as unconfirmed; the method above is PowerPyx's, attributed as such. Method framing: this guide's own."
     },
     {
       "id": 51,
@@ -954,14 +990,15 @@
       "type": "skill",
       "missable": false,
       "spoiler": false,
-      "guide": "Knock a person down with a melee attack delivered from a moving vehicle — a drive-by, but with a melee weapon instead of a gun, and the 'bowl 'em over' wording says the target must go down like a pin. This is a setup feat: find a lone pedestrian on a quiet stretch, approach at moderate speed — fast enough to be a drive-by, slow enough to aim — and swing as you pass. Too fast and you run them over, which is a different act entirely; the skill is in the speed window between a nudge and a splat.",
+      "guide": "Bowl 'em over with a melee drive-by — and this card's lone-pedestrian version has been replaced, because a single named post-launch source gives the trophy a vehicle, a count and a clock that the old reading missed entirely. PowerPyx's trophy guide states it directly: ride any bike and kick ten pedestrians, with the Square button, within sixty seconds, in crowded areas such as Vice City or Ocean Beach. That reframes everything about the setup. The vehicle is a bike, not a car; the attack is the rider's kick, not a swung weapon; and the feat is a streak — ten connected kicks inside one minute — which is why the source sends you to crowds instead of this card's old quiet road: a lone target every twenty seconds cannot feed a sixty-second count of ten. GTABase's trophy list, checked the same day, still described this trophy's exact steps as unconfirmed, so the method above is PowerPyx's, attributed as such. The old card's one surviving insight is the speed window: ride at a pace where the kick, not the bike, does the knocking down — running a pedestrian over is a different act and does not feed the streak.",
       "steps": [
-        "Equip a melee weapon you can swing from a vehicle and find a quiet road with pedestrians.",
-        "Approach a lone target at a controlled, moderate speed.",
-        "Swing as you pass so the melee hit, not the vehicle, knocks them down; the trophy unlocks on a clean hit."
+        "Take any bike to a crowded area — Vice City or Ocean Beach, per the source below — where pedestrians come in streams, not singles.",
+        "Ride through the crowd at a controlled speed and kick pedestrians with Square as you pass, keeping each kick a kick: if the bike itself flattens them, slow down.",
+        "Chain ten kicks within sixty seconds; if the minute lapses first, circle back into the crowd and start a fresh streak rather than chasing stragglers.",
+        "The trophy unlocks when the tenth kick lands inside the window."
       ],
-      "tip": "Practise the pass without swinging first to learn the speed — once the line is right, adding the swing is the easy part.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Method: this guide's own reading of the official wording."
+      "tip": "Density is the difficulty setting: ten kicks in a minute is easy in a crowd and impossible on a quiet road — pick the pavement with the people, and let the streak come to you.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade), as listed by Exophase and PSNProfiles. Bike, kick input, ten-in-sixty-seconds count and crowded-area advice: PowerPyx, GTA 6 Trophy Guide & Roadmap, checked 20 November 2026. Note: GTABase's trophy list, checked the same day, still listed this trophy's exact steps as unconfirmed; the method above is PowerPyx's, attributed as such. Method framing: this guide's own."
     },
     {
       "id": 52,
@@ -1026,14 +1063,16 @@
       "type": "story",
       "missable": false,
       "spoiler": false,
-      "guide": "Register ten vehicles to the Scooter Bros app. The count and the app are named in the official text; the habit that earns it is registering vehicles as you acquire them rather than in one batch at the end. Every new car you steal, buy or are given during the story and the sweeps is a candidate — open the app, register it, and move on. Ten registrations arrive quickly once the habit exists, and the card pairs naturally with the vehicle-discovery count, since both reward the same behaviour: trying new vehicles constantly.",
+      "guide": "Register ten vehicles to the Scooter Bros app — and the registration desk is a place, not a menu, which is the detail this card originally missed. Both post-launch sources below describe the same system: the Scooter Bros app is installed on your phone after a Chapter 2 mission for Moses, and registering a vehicle means driving a stolen vehicle to Moses at his garage in Port Gellhorn and choosing Respray and then Register there. Two constraints shape the order of work. First, space: each registration needs a free garage spot, so this card depends on Little Boxes — buy garages to make room, and PowerPyx states the dependency outright. Second, eligibility and cost: at first Moses only accepts vehicles without trackers; from Chapter 3, vehicles with standard trackers can also be registered at any Pay 'n' Spray, and every registration costs money, so cheap low-end cars and bikes are the sensible feedstock. Registering a vehicle also makes it deliverable to you wherever you are, which is the system's real prize — the trophy is ten uses of a service you will keep using. The pairing with Whip It Good survives, with a correction: scan unfamiliar vehicles with WAiNK for discovery, and register the cheap ones you actually steal for this count.",
       "steps": [
-        "Learn where the Scooter Bros app registration lives the first time you get a new vehicle.",
-        "Register each newly acquired vehicle as you get it.",
-        "The trophy unlocks at the tenth registered vehicle."
+        "Play the Chapter 2 Moses mission that installs the Scooter Bros app and unlocks Moses himself.",
+        "Make room first: own enough garage space for the vehicles you plan to register (see Little Boxes), because a registration without a free spot goes nowhere.",
+        "Steal a cheap car or bike — before Chapter 3, one without a tracker — and drive it to Moses' garage in Port Gellhorn.",
+        "In the garage, choose Respray and then Register, and pay the registration cost.",
+        "Repeat with nine more vehicles; from Chapter 3, tracked vehicles can be registered at any Pay 'n' Spray instead. The trophy unlocks at the tenth registration."
       ],
-      "tip": "Pair this with Whip It Good — every unfamiliar vehicle you sample is both a discovery and a registration waiting to happen.",
-      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 10), as listed by Exophase and PSNProfiles. Method: this guide's own."
+      "tip": "Feed it cheap metal: the trophy counts registrations, not value — ten bikes and runabouts cost a fraction of ten sports cars and occupy the same slots.",
+      "source": "Source: official PlayStation 5 trophy list (name, description, grade and the count of 10), as listed by Exophase and PSNProfiles. App unlock, Moses garage process, tracker rule, garage-space dependency and registration cost: PowerPyx, GTA 6 Trophy Guide & Roadmap, and GTABase, GTA 6 Trophy Guide & Achievements List, both checked 20 November 2026. Method: this guide's own."
     }
   ]
 }

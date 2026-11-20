@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-trophy-guide-01/wildhanry/gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![reward](https://make.fun/badge/gta6-trophy-guide-01/wildhanry/gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
-**Platinum in Leonida** — an offline trophy guide and tracker for Grand Theft Auto VI on PlayStation 5. Every one of the 55 official trophies gets its own guide card written for this entry: what the official description actually asks for, a practical way to earn it broken into steps, a tip from the trenches, and the sources each card rests on. A six-stop roadmap orders the run at the platinum so story progress, contact strands, activities, collectible sweeps, partner crime and the long counts each happen at the cheapest moment, and a watch list flags the handful of trophies whose trigger or replay rules were still unconfirmed when this guide was written, so you check them before you walk past their moment instead of after.
+**Platinum in Leonida** — an offline trophy guide and tracker for Grand Theft Auto VI on PlayStation 5. Every one of the 55 official trophies gets its own guide card written for this entry: what the official description actually asks for, a practical way to earn it broken into steps, a tip from the trenches, and the sources each card rests on. A six-stop roadmap orders the run at the platinum so story progress, contact strands, activities, collectible sweeps, partner crime and the long counts each happen at the cheapest moment, and a watch list flags the trophies that still need care before you walk past their moment: the one trigger both post-launch guides still list as unknown, and the one possibly missable meditation. Most triggers that were unconfirmed before launch have since been confirmed in public — the revised edition of 20 November 2026 names its post-launch sources (PowerPyx and GTABase) on every card it changed, and says plainly where a method rests on a single source.
 
 What is inside:
 
@@ -13,7 +13,7 @@ What is inside:
 - Filters that combine: full-text search, grade, category, type (story, skill, long haul), watch-list only, and hide-earned.
 - A spoiler shield that is on when the page first opens: story-sensitive trophies show neither name nor description until you reveal them or tick them off.
 - Progress kept in the browser with localStorage, exportable to a file and importable again; the export format is the same array-of-names format the starter checklist used.
-- Straight about its limits: every number in the guide comes from the official trophy list data. Where the exact in-game trigger had not been made public, the card says that plainly and gives a save-first way to test it safely rather than a confident guess.
+- Straight about its limits: every number in the guide comes from the official trophy list data. Triggers confirmed after launch are credited to the post-launch guide that reported them, on the card itself; where a trigger is still not confirmed in public — one card, as of the 20 November 2026 revision — the card says that plainly and gives a save-first way to test it safely rather than a confident guess.
 
 ## Run it
 
