@@ -30,6 +30,13 @@ const KIND_WORDS = {
   'long-haul': 'Long haul & counts',
 };
 
+// The overview (?view=cover) is the guide on one screen for a first look:
+// the roadmap in short, the filters as they stand, one full guide open with
+// its source line, the head of the checklist and the watch list. It renders
+// from the same data as the cards below; nothing here is a second copy.
+const OVERVIEW_FEATURED_NAME = 'Paradise Lost';
+const OVERVIEW_LIST_ROWS = 12;
+
 let earned = new Set();
 try {
   earned = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '[]'));
@@ -175,6 +182,53 @@ function renderCards() {
     : 'Watch list clear — every verify-first trophy is earned';
 }
 
+// --- Overview (one-screen composite) -------------------------------------------
+
+function renderOverview() {
+  const sheet = document.getElementById('overview-sheet');
+  sheet.hidden = false;
+
+  const featured = trophies.find((t) => t.name === OVERVIEW_FEATURED_NAME) ?? trophies[0];
+  const featuredBox = document.getElementById('overview-featured');
+  featuredBox.replaceChildren();
+  featuredBox.append(node('h3', 'overview-featured-title', 'One guide, open — with its sources'));
+  featuredBox.append(buildCard(featured));
+
+  const list = document.getElementById('overview-list');
+  list.replaceChildren();
+  for (const t of trophies.slice(0, OVERVIEW_LIST_ROWS)) {
+    const row = node('li', 'overview-row');
+    const box = node('input');
+    box.type = 'checkbox';
+    box.checked = earned.has(t.name);
+    box.setAttribute('aria-label', `Mark ${t.name} as earned`);
+    box.addEventListener('change', () => {
+      if (box.checked) earned.add(t.name);
+      else earned.delete(t.name);
+      persistProgress();
+      renderCards();
+      renderOverview();
+    });
+    row.append(box);
+    row.append(node('span', 'overview-row-name', t.name));
+    if (t.missable) row.append(node('span', 'pill pill-watch', 'WATCH'));
+    row.append(node('span', `pill pill-${t.grade}`, t.grade));
+    list.append(row);
+  }
+  document.getElementById('overview-list-title').textContent =
+    `Checklist — first ${OVERVIEW_LIST_ROWS} of ${trophies.length}`;
+  document.getElementById('overview-list-note').textContent =
+    `…plus the other ${trophies.length - OVERVIEW_LIST_ROWS} below in the full checklist: ` +
+    '1 platinum · 2 gold · 6 silver · 46 bronze in all, each with its own cited guide.';
+
+  const watch = document.getElementById('overview-watch');
+  watch.replaceChildren();
+  for (const t of trophies.filter((x) => x.missable)) {
+    const item = node('li', null, `${t.name} — ${t.description}`);
+    watch.append(item);
+  }
+}
+
 // --- Controls ------------------------------------------------------------------
 
 document.getElementById('export').addEventListener('click', () => {
@@ -215,6 +269,14 @@ if (params.get('kind')) els.kind.value = params.get('kind');
 if (params.get('q')) els.search.value = params.get('q');
 if (params.get('watch') === '1') els.watchOnly.checked = true;
 if (params.get('shield') === '0') els.shield.checked = false;
+
+document.getElementById('overview-link').addEventListener('click', () => {
+  location.search = '?view=cover';
+});
+if (params.get('view') === 'cover') {
+  document.body.classList.add('cover-mode');
+  renderOverview();
+}
 
 renderCards();
 

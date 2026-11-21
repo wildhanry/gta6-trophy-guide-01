@@ -64,9 +64,24 @@
     <label class="toggle"><input id="watch-only" type="checkbox"> Watch list only</label>
     <label class="toggle"><input id="hide-earned" type="checkbox"> Hide earned</label>
     <label class="toggle"><input id="shield" type="checkbox" checked> Spoiler shield</label>
+    <button id="overview-link" type="button">Overview</button>
     <button id="export" type="button">Export progress</button>
     <label class="import-button">Import progress <input id="import" type="file" accept="application/json"></label>
     <p id="showing" class="showing" role="status"></p>
+  </div>
+</section>
+
+<section class="sheet overview" id="overview-sheet" hidden>
+  <h2>Overview — the whole guide on one screen</h2>
+  <div class="overview-grid">
+    <div id="overview-featured"></div>
+    <div class="overview-side">
+      <h3 id="overview-list-title">Checklist</h3>
+      <ol id="overview-list" class="overview-list"></ol>
+      <p id="overview-list-note" class="overview-note"></p>
+      <h3>Watch list — verify before their moment passes</h3>
+      <ul id="overview-watch" class="overview-watch"></ul>
+    </div>
   </div>
 </section>
 
